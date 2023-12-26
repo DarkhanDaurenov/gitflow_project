@@ -4,3 +4,13 @@ def letter_upper(letter):
     return letter.upper()
 
 print(letter_upper('skypro'))
+print("not bad code")
+
+
+#Функция принимает строку и возаращает с заглавными буквами
+def letter_title(letter):
+    """Функция возвращает строку с заглавными буквами"""
+    return letter.title()
+
+print(letter_title('skypro one of the best'))
+print("well done")
