@@ -3,7 +3,6 @@ def letter_upper(letter):
     """Функция возвращает строку в верхнем регистре"""
     return letter.upper()
 
-
 print(letter_upper('skypro'))
 
 
