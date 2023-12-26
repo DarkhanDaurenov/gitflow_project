@@ -12,5 +12,4 @@ def letter_title(letter):
     """Функция возвращает строку с заглавными буквами"""
     return letter.title()
 
-
 print(letter_title('skypro one of the best'))
